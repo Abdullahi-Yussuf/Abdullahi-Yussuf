@@ -63,7 +63,7 @@
 ### 🚀 Current Projects & Milestones
 
 - `Greenhouse Gas Emissions Modeling` → Analyzing environmental data using Log-10 transformations and Pearson correlation analysis in R and Python.  
-- `Nawab` → Designing data-driven logistics and routing for a fintech-oriented transportation matatu business in Nairobi.  
+- `Nawab` → Designing data driven logistics and routing for a fintech oriented transportation matatu business in Nairobi.  
 - `Moringa Data Science Bootcamp` → Currently sharpening advanced analytics and machine learning skills ahead of graduation.  
 
 ### 💼 Professional Summary
@@ -75,5 +75,5 @@
 ### 🔥 Extra Cool Facts
 
 - ⚽ When I'm away from my Jupyter Notebooks, you can usually find me out on the pitch playing football.  
-- 🎮 Big fan of mobile gaming—especially mastering characters in Shadow Fight Arena!  
-- 💭 Deeply interested in self-growth, building a legacy, and sharing my tech journey.
+- 🎮 Big fan of mobile gaming especially mastering characters in Shadow Fight Arena!  
+- 💭 Deeply interested in self growth, building a legacy, and sharing my tech journey.
