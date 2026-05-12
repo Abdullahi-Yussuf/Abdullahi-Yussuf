@@ -14,7 +14,7 @@
 </p>
 
 💬 Ask me about **Data Science, Machine Learning, or Statistical Modeling**!  
-📫 How to reach me: abdallabinussuf9@gmail.com 
+📫 How to reach me: abdallabinussuf9@gmail.com
 
 👨‍💻 I regularly work on data engineering, predictive modeling, and analytics pipelines.  
 🌟 I enjoy discovering patterns in complex datasets and building robust machine learning models.  
@@ -30,6 +30,9 @@
   </a>
   <a href="https://www.linkedin.com/in/abdalla-yussuf-177645325" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/ryl_nwb__" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
 </p>
 
@@ -68,7 +71,7 @@
 
 ### 💼 Professional Summary
 
-**Data Scientist | JKUAT Student | Moringa School Fellow** I am a Data Scientist dedicated to solving real-world problems through statistical rigor and machine learning. From building predictive models to exploring cloud architecture, I leverage a diverse technical background to turn raw data into strategic decisions. I am highly passionate about the intersection of tech, finance, and environmental sustainability.
+**Data Scientist | JKUAT Student | Moringa School Fellow** I am a Data Scientist dedicated to solving real world problems through statistical rigor and machine learning. From building predictive models to exploring cloud architecture, I leverage a diverse technical background to turn raw data into strategic decisions. I am highly passionate about the intersection of tech, finance, and environmental sustainability.
 
 ---
 
